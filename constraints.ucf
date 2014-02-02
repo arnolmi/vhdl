@@ -1,0 +1,15 @@
+NET "sevenseg<0>" LOC = "L14";
+NET "sevenseg<1>" LOC = "H12";
+NET "sevenseg<2>" LOC = "N14";
+NET "sevenseg<3>" LOC = "N11";
+NET "sevenseg<4>" LOC = "P12";
+NET "sevenseg<5>" LOC = "L13";
+NET "sevenseg<6>" LOC = "M12";
+NET "anodes<3>" LOC = "F12";
+NET "anodes<2>" LOC = "J12"; 
+NET "anodes<1>" LOC = "M13"; 
+NET "anodes<0>" LOC = "K14"; 
+NET "dp" LOC = "N13"; 
+NET "Clk" LOC = "B8";
+NET "Clk" CLOCK_DEDICATED_ROUTE = FALSE;
+NET "btna" LOC = "A7";
